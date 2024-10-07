@@ -39,7 +39,7 @@ This repository contains various projects that I have done in my learning journe
 **Project 1.5**
 
 
-**Holiday Bonus Calculator:** A project that calculates holiday bonuses for stores based on their sales data, using a two-dimensional array and various utility methods.
+**Holiday Bonus Calculator:** A project that calculates holiday bonuses for stores based on their sales data, using a two-dimensional array and various utility methods.  
 **Concepts tested:** 
 -multi-dimensional arrays, 
 -algorithm development,
@@ -48,7 +48,7 @@ This repository contains various projects that I have done in my learning journe
 
 **Project 1.6**
 
-**Beverage Shop Management System:** A Java project managing various beverage orders, including alcohol, coffee, and smoothies, along with customer details and pricing calculations. 
+**Beverage Shop Management System:** A Java project managing various beverage orders, including alcohol, coffee, and smoothies, along with customer details and pricing calculations.  
 **Concepts tested:**
 -inheritance, 
 -polymorphism, 
